@@ -15,7 +15,9 @@
 
 ## DAO Goals / Post-Launch
 **Funding outreach, development and maintenance of the network.**
+
 *The more the chain is used, the more it can grow.*
+
 ### Short Term
 - Create a web app for the Proposal Submittal process. Integrate it with Xaman for ease of access.
 - Create a Proposal Review framework / scoring matrix for consistency and transparency in the governance process. 
