@@ -12,6 +12,7 @@
 - Pass amendments for DAO Governance.
 - Create, host, record and post training sessions focused on DAO participation topics.
 
+
 ## DAO Goals / Post-Launch
 **Funding outreach, development and maintenance of the network.**
 *The more the chain is used, the more it can grow.*
