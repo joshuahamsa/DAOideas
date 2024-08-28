@@ -29,4 +29,4 @@
 ### Long Term
 - Host regular meetups, hackathons and events for community engagement and onboarding.
 - Present / presence at conventions focused on Web3 and adjacent industries.
-- Create partnerships with payment processors (Stripe, Clover, Klarna, Affirm, Amazon, eBay, Apple Pay, Paypal)
+- Create partnerships with payment processors (Stripe, Clover, Klarna, Affirm, Amazon, eBay, Apple Pay, Paypal) to facilitate crypto payments routed through the XRPL (via DEX or AMM).
